@@ -1,0 +1,5 @@
+syntax on
+colorscheme Tomorrow-Night-Bright
+syntax on
+set encoding=utf-8
+inoremap jk <ESC>
